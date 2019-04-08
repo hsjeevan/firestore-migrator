@@ -13,7 +13,8 @@ Watch the [screencast](https://angularfirebase.com/lessons/import-csv-json-or-ex
 
 - Clone and run `npm install`
 - Download the service account from your Firebase project settings, then save it as `credentials.json` in the project root. 
-- `npm run build` and you're off and running.
+- `npm run build`
+- `npm link` and you're off and running.
 
 ## Import Data to Firestore
 
